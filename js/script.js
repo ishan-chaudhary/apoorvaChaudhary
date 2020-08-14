@@ -51,5 +51,15 @@ function checkScroll() {
 
 window.addEventListener("scroll", checkScroll);
 
+var loader = function() {
+    console.log('hi')
+    setTimeout(function() { 
+        if($('#ftco-loader').length > 0) {
+            $('#ftco-loader').removeClass('show');
+        }
+    }, 1);
+};
+loader();
+
 // This event fills the progress bars if they are displayed on the screen when the page is loaded.
 //window.addEventListener("load", checkScroll);
