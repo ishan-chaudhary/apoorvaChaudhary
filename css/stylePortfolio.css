@@ -257,7 +257,7 @@ section:nth-child(2n + 1) {
     transform: rotate(90deg);
     margin-top: -35px;
     display: block;
-    color: #2857a4;
+    color: black;
 }
 
 .experience-designation {
