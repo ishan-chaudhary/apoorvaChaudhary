@@ -9000,3 +9000,20 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .product-crousel .item{
+      margin: 3px;
+    }
+    .product-crousel .item img{
+      display: block;
+      width: 100%;
+      height: 460px;
+    }
+
+    .modal-body .carousel .carousel-inner .carousel-item img{
+      display: block;
+      width: 100%;
+      height: 460px;
+    }
+
+
