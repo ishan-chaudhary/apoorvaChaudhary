@@ -121,17 +121,20 @@
 
 			if (st > 150) {
 				if ( !navbar.hasClass('scrolled') ) {
-					navbar.addClass('scrolled');	
+					navbar.addClass('scrolled');
+					$('#logo-img').attr("src","./images/LOGO(2).png");	
 				}
 			} 
 			if (st < 150) {
 				if ( navbar.hasClass('scrolled') ) {
 					navbar.removeClass('scrolled sleep');
+					$('#logo-img').attr("src","./images/LOGO(2).png");
 				}
 			} 
 			if ( st > 350 ) {
 				if ( !navbar.hasClass('awake') ) {
-					navbar.addClass('awake');	
+					navbar.addClass('awake');
+					$('#logo-img').attr("src","./images/LOGO_1.png");	
 				}
 				
 				if(sd.length > 0) {
@@ -141,10 +144,12 @@
 			if ( st < 350 ) {
 				if ( navbar.hasClass('awake') ) {
 					navbar.removeClass('awake');
+					$('#logo-img').attr("src","./images/LOGO(2).png");
 					navbar.addClass('sleep');
 				}
 				if(sd.length > 0) {
 					sd.removeClass('sleep');
+					$('#logo-img').attr("src","./images/LOGO(2).png");
 				}
 			}
 		});
