@@ -7465,8 +7465,8 @@ h1, h2, h3, h4, h5,
     background: -o-linear-gradient(45deg, #8b8b92 0%, #efac78 100%);
     background: -ms-linear-gradient(45deg, #8b8b92 0%, #efac78 100%);
     background: linear-gradient(45deg, #bfbfbf 0%, #6b6b6b 100%); */
-    background-image: url('../images/PIC_4.jpg');
-    background: url('../images/PIC_4.jpg');
+    background-image: url('../images/PIC\ 4.png');
+    background: url('../images/PIC\ 4.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
