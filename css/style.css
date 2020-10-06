@@ -4989,7 +4989,7 @@ button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
 .bg-light {
-  background-color: #9e9b9b29 !important; }
+  background-color: #e4faf0 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
@@ -7594,7 +7594,7 @@ h1, h2, h3, h4, h5,
     display: inline-block; }
 
 .bg-light {
-  background: #9e9b9b29 !important; }
+  background: #e4faf0 !important; }
 
 .bg-primary {
   background: #8b8b92; }
@@ -7750,23 +7750,23 @@ h1, h2, h3, h4, h5,
     right: 0;
     content: ''; }
   .services .icon.color-1 {
-    background: #f4f4f4; }
+    background: #ffe9af; }
     .services .icon.color-1 span {
-      color:#f4f4f4; }
+      color:#ffe9af; }
     .services .icon.color-1:before {
       top: -20px;
       width: 0;
       height: 0;
       border-style: solid;
       border-width: 0 45px 20px 45px;
-      border-color: transparent transparent #f4f4f4 transparent; }
+      border-color: transparent transparent #ffe9af transparent; }
     .services .icon.color-1:after {
       bottom: -20px;
       width: 0;
       height: 0;
       border-style: solid;
       border-width: 20px 45px 0 45px;
-      border-color: #f4f4f4 transparent transparent transparent; }
+      border-color: #ffe9af transparent transparent transparent; }
   .services .icon.color-2 {
     background: #fdf2ea; }
     .services .icon.color-2 span {
