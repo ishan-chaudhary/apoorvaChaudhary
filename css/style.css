@@ -7387,7 +7387,7 @@ h1, h2, h3, h4, h5,
       color: #8b8b92 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #112f44 !important;
-      background: #8b8b92;
+      background: #e4faf0;
       border: none !important;
       padding-top: 0.5rem !important;
       padding-bottom: .5rem !important;
@@ -7893,8 +7893,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    -webkit-box-shadow: 20px 20px 0 0 #d4d3d3;
-    box-shadow: 20px 20px 0 0 #d4d3d3; }
+    -webkit-box-shadow: 20px 20px 0 0 #c1dbd0;
+    box-shadow: 20px 20px 0 0 #c1dbd0; }
   .block-3 .image.image-2:after {
     position: absolute;
     top: 0;
@@ -7902,8 +7902,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    -webkit-box-shadow: -20px 20px 0 0 #d4d3d3;
-    box-shadow: -20px 20px 0 0 #d4d3d3; }
+    -webkit-box-shadow: -20px 20px 0 0 #c1dbd0;
+    box-shadow: -20px 20px 0 0 #c1dbd0; }
   @media (max-width: 767.98px) {
     .block-3 .image {
       height: 300px; } }
